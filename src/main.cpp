@@ -28,7 +28,7 @@ int main()
       
 		//close the input file because we are done with it
 		inputFile.close();
-      
+
 		//report on programmers to console
 		generateProgrammerReport( cout, programmers, numProgrammers ); // cout passed as an ostream
       
